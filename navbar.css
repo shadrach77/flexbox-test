@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  height: 100%;
+  width: 99%;
+  margin: 10px 0.5%;
+}
+.navbar {
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  text-align: center;
+  background-color: yellow;
+  padding: 10px;
+  position: sticky;
+  top: 5px;
+  height: 3rem;
+  box-sizing: border-box;
+}
